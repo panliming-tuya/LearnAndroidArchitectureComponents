@@ -1,1 +1,1 @@
-include ':databinding'
+include ':databinding_demo', ':viewmodel_demo'
